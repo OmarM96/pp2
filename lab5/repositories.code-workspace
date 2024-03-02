@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "repositories",
+			"path": ".."
+		},
+		{
+			"name": "PP2",
+			"path": "../../../../PP2"
+		}
+	],
+	"settings": {}
+}
